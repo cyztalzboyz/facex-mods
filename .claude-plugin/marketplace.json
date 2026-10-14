@@ -1,0 +1,5 @@
+{
+  "name": "facex-mods",
+  "owner": { "name": "Elementalmatk" },
+  "plugins": [{ "name": "facex-render-watch", "source": "./" }]
+}

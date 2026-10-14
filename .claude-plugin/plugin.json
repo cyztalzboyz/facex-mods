@@ -1,0 +1,1 @@
+{ "name": "facex-render-watch", "version": "0.1.0", "description": "Live pane of FaceX render jobs plus a toast when each render finishes", "types": "./types/index.d.ts" }
