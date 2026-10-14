@@ -7,13 +7,13 @@ A Claude Code mod for FaceX reel production. It spots render commands (ffmpeg, B
 At the prompt of a terminal session:
 
 ```
-/plugin install facex-render-watch --marketplace <owner>/<repo>
+/plugin install facex-render-watch --marketplace cyztalzboyz/facex-mods
 ```
 
 From a shell:
 
 ```
-claude plugin install facex-render-watch --marketplace <owner>/<repo>
+claude plugin install facex-render-watch --marketplace cyztalzboyz/facex-mods
 ```
 
-In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `<owner>/<repo>`, then Add plugin.
+In the desktop app: click + next to the prompt box, then Plugins, Add marketplace with `cyztalzboyz/facex-mods`, then Add plugin.
